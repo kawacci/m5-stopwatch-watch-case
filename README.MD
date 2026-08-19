@@ -50,11 +50,13 @@ m5-stopwatch-watch-case/
 ├── STEP/                 # STEPデータ（改変用）
 │   ├── BANDBASE1.step
 │   ├── BANDBASE2.step
+│   ├── BANDBASE2A.step  (空気穴追加)
 │   ├── BASE.step
 │   └── StopWatch.step
 ├── STL/                  # 3Dプリント用STLデータ
 │   ├── BANDBASE1.stl
 │   ├── BANDBASE2.stl
+│   ├── BANDBASE2A.stl  (空気穴追加)
 │   └── BASE.stl
 └── README.md
 
