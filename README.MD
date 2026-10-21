@@ -1,5 +1,7 @@
 # M5Stopwatch Watch Case
 
+[English](./README-EN.MD) | **日本語**
+
 M5Stack公式のストップウォッチ（M5Stopwatch）を腕時計として使用するための、カスタム取り付けベースおよびプロテクターの3Dモデルデータです。
 
 ---
