@@ -26,21 +26,31 @@ The base model was reverse-engineered based on the STL data provided in M5Stack'
 ## 📂 Data Structure & Variations
 
 Both `STL` and `STEP` formats are provided to suit your needs.
-* Protector-compatible versions are currently provided in `STL`.
 
-### 1. Tough Gear Style Protector Model (G Series) ★NEW
+### 1. Tough Gear Style Protector Model (G Series)
+
 A snap-fit protector model featuring a rugged design.
+
+#### 🔹 Asymmetric (Offset) Model ★NEW
+An offset lug design that prevents the case from digging into the back of your hand when bending your wrist with the larger protector. Choose `L` (Left Offset) or `R` (Right Offset) depending on which wrist you wear it on and your preference.
 
 | Model Name | Description | Preview |
 | :--- | :--- | :--- |
-| **BANDBASE-G** (20 / 22 / 24mm) | Protector-compatible watch base (available in each band width) | ![BANDBASE-G](img/BANDBASE-G-24mm.png) |
+| **BANDBASE-G-Offset**<br>`BANDBASE-SIDE[20/22/24]_[L/R].stl` | Asymmetric base designed to avoid hand interference<br>(Band width: 20/22/24mm × L/R, 6 models in total) | ![BANDBASE-G-24mm_L](img/BANDBASE-G-24mm_L.png) |
+
+---
+
+#### 🔹 Standard Center Model
+| Model Name | Description | Preview |
+| :--- | :--- | :--- |
+| **BANDBASE-G**<br>`BANDBASE-G-[20/22/24]mm.stl` | Protector-compatible standard watch base (20/22/24mm) | ![BANDBASE-G](img/BANDBASE-G-24mm.png) |
 | **COVER-G** | Protector cover with M5 logo | ![COVER-G](img/COVER-G.png) |
 | **COVER-G-none** | Protector cover without logo | ![COVER-G-none](img/COVER-G-none.png) |
 | **StopWatch-G (ASSY)** | Overall assembly view with protector attached | ![StopWatch-G](img/StopWatch-G.png) |
 
 ---
 
-### 2. Standard & Legacy Models
+### 2. Standard & Legacy Models (Original)
 
 | Model Name | Description | Preview (Single / ASSY) |
 | :--- | :--- | :--- |
@@ -68,9 +78,21 @@ Example slice layout when printing with FDM (Fused Deposition Modeling). Adjust 
 ```text
 m5-stopwatch-watch-case/
 ├── img/                  # Preview images
+├── LICENSE/              # License files
+│   └── LICENSE.txt
 ├── MOV/                  # 3D model videos
-├── STEP/                 # STEP data (for modification)
+├── STEP/                 # STEP data (for CAD editing)
+│   ├── BANDBASE1.step
+│   ├── BANDBASE2.step
+│   ├── BANDBASE2A.step
+│   ├── BASE.step
+│   ├── StopWatch.step
+│   └── StopWatch_RealReverse.STEP
 └── STL/                  # STL data for 3D printing
+    ├── BANDBASE-G/        # Protector-compatible standard bases (20/22/24mm)
+    ├── BANDBASE-G-Offset/ # Offset bases to avoid hand interference (20/22/24mm × L/R)
+    ├── COVER-G/          # Protector covers (with/without logo)
+    └── Original/         # Legacy & standard base models
 
 ```
 
