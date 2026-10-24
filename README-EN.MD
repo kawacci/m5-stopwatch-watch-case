@@ -36,17 +36,17 @@ An offset lug design that prevents the case from digging into the back of your h
 
 | Model Name | Description | Preview |
 | :--- | :--- | :--- |
-| **BANDBASE-G-Offset**<br>`BANDBASE-SIDE[20/22/24]_[L/R].stl` | Asymmetric base designed to avoid hand interference<br>(Band width: 20/22/24mm × L/R, 6 models in total) | ![BANDBASE-G-24mm_L](img/BANDBASE-G-24mm_L.png) |
+| **BANDBASE-G-Offset**<br>`BANDBASE-SIDE[20/22/24]_[L/R].stl` | Asymmetric base designed to avoid hand interference<br>(Band width: 20/22/24mm × L/R, 6 models in total) | <img src="img/BANDBASE-G-24mm_L.png" width="200" alt="BANDBASE-G-24mm_L">  |
 
 ---
 
 #### 🔹 Standard Center Model
 | Model Name | Description | Preview |
 | :--- | :--- | :--- |
-| **BANDBASE-G**<br>`BANDBASE-G-[20/22/24]mm.stl` | Protector-compatible standard watch base (20/22/24mm) | ![BANDBASE-G](img/BANDBASE-G-24mm.png) |
-| **COVER-G** | Protector cover with M5 logo | ![COVER-G](img/COVER-G.png) |
-| **COVER-G-none** | Protector cover without logo | ![COVER-G-none](img/COVER-G-none.png) |
-| **StopWatch-G (ASSY)** | Overall assembly view with protector attached | ![StopWatch-G](img/StopWatch-G.png) |
+| **BANDBASE-G**<br>`BANDBASE-G-[20/22/24]mm.stl` | Protector-compatible standard watch base (20/22/24mm) | <img src="img/BANDBASE-G-24mm.png" width="200" alt="BASEBAND-G">|
+| **COVER-G** | Protector cover with M5 logo | <img src="img/COVER-G.png" width="200" alt="COVER-G">|
+| **COVER-G-none** | Protector cover without logo | <img src="img/COVER-G-none.png" width="200" alt="COVER-G-none" |
+| **StopWatch-G (ASSY)** | Overall assembly view with protector attached | <img src="img/StopWatch-G.png" width="200" alt="StopWatch-G"> |
 
 ---
 
@@ -54,9 +54,9 @@ An offset lug design that prevents the case from digging into the back of your h
 
 | Model Name | Description | Preview (Single / ASSY) |
 | :--- | :--- | :--- |
-| **BANDBASE1** | Initial model watch base | ![BANDBASE1](img/BANDBASE1.png) ![BANDBASE1_ASSY](img/BANDBASE1_ASSY.png) |
-| **BANDBASE2 / 2A** | Improved model for better arm fit (2A includes air vent holes) | ![BANDBASE2](img/BANDBASE2.png) ![BANDBASE2_ASSY](img/BANDBASE2_ASSY.png) |
-| **BASE** | Base model without band attachment points | ![BASE](img/BASE.png) ![BASE_ASSY](img/BASE_ASSY.png) |
+| **BANDBASE1** | Initial model watch base | <img src="img/BANDBASE1.png" width="200" alt="BANDBASE1"> <img src="img/BANDBASE1_ASSY.png" width="200" alt="BANDBASE1_ASSY">|
+| **BANDBASE2 / 2A** | Improved model for better arm fit (2A includes air vent holes) | <img src="img/BANDBASE2.png" width="200" alt="BANDBASE2"> <img src="img/BANDBASE2_ASSY.png" width="200" alt="BANDBASE2_ASSY"> |
+| **BASE** | Base model without band attachment points | <img src="img/BASE.png" width="200" alt="BASE"> <img src="img/BASE_ASSY.png" width="200" alt="BASE_ASSY">  |
 
 ---
 

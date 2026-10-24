@@ -36,17 +36,17 @@ M5Stopwatch本体に内蔵されている**磁石**と**ストラップホルダ
 
 | モデル名 | 説明 | プレビュー |
 | :--- | :--- | :--- |
-| **BANDBASE-G-Offset**<br>`BANDBASE-SIDE[20/22/24]_[L/R].stl` | 手の甲への干渉を防止するアシンメトリーベース<br>（ベルト幅: 20/22/24mm × L/R 各6種） | ![BANDBASE-G-24mm_L](img/BANDBASE-G-24mm_L.png) |
+| **BANDBASE-G-Offset**<br>`BANDBASE-SIDE[20/22/24]_[L/R].stl` | 手の甲への干渉を防止するアシンメトリーベース<br>（ベルト幅: 20/22/24mm × L/R 各6種） | <img src="img/BANDBASE-G-24mm_L.png" width="200" alt="BANDBASE-G-24mm_L"> |
 
 ---
 
 #### 🔹 センターモデル（通常版）
 | モデル名 | 説明 | プレビュー |
 | :--- | :--- | :--- |
-| **BANDBASE-G**<br>`BANDBASE-G-[20/22/24]mm.stl` | プロテクター対応の標準腕時計用ベース（各ベルト幅対応） | ![BANDBASE-G](img/BANDBASE-G-24mm.png) |
-| **COVER-G** | M5ロゴ入りのプロテクターカバー | ![COVER-G](img/COVER-G.png) |
-| **COVER-G-none** | ロゴ無しのプロテクターカバー | ![COVER-G-none](img/COVER-G-none.png) |
-| **StopWatch-G (ASSY)** | プロテクター装着時の全体イメージ | ![StopWatch-G](img/StopWatch-G.png) |
+| **BANDBASE-G**<br>`BANDBASE-G-[20/22/24]mm.stl` | プロテクター対応の標準腕時計用ベース（各ベルト幅対応） | <img src="img/BANDBASE-G-24mm.png" width="200" alt="BASEBAND-G"> |
+| **COVER-G** | M5ロゴ入りのプロテクターカバー | <img src="img/COVER-G.png" width="200" alt="COVER-G"> |
+| **COVER-G-none** | ロゴ無しのプロテクターカバー | <img src="img/COVER-G-none.png" width="200" alt="COVER-G-none"> |
+| **StopWatch-G (ASSY)** | プロテクター装着時の全体イメージ | <img src="img/StopWatch-G.png" width="200" alt="StopWatch-G"> |
 
 ---
 
@@ -54,9 +54,9 @@ M5Stopwatch本体に内蔵されている**磁石**と**ストラップホルダ
 
 | モデル名 | 説明 | プレビュー (単体 / ASSY) |
 | :--- | :--- | :--- |
-| **BANDBASE1** | 初期モデルの腕時計用ベース | ![BANDBASE1](img/BANDBASE1.png) ![BANDBASE1_ASSY](img/BANDBASE1_ASSY.png) |
-| **BANDBASE2 / 2A** | より腕にフィットするように改良されたモデル（2Aは空気穴追加版） | ![BANDBASE2](img/BANDBASE2.png) ![BANDBASE2_ASSY](img/BANDBASE2_ASSY.png) |
-| **BASE** | バンドの取り付け部を無くしたベースモデル | ![BASE](img/BASE.png) ![BASE_ASSY](img/BASE_ASSY.png) |
+| **BANDBASE1** | 初期モデルの腕時計用ベース | <img src="img/BANDBASE1.png" width="200" alt="BANDBASE1"> <img src="img/BANDBASE1_ASSY.png" width="200" alt="BANDBASE1_ASSY"> |
+| **BANDBASE2 / 2A** | より腕にフィットするように改良されたモデル（2Aは空気穴追加版） | <img src="img/BANDBASE2.png" width="200" alt="BANDBASE2"> <img src="img/BANDBASE2_ASSY.png" width="200" alt="BANDBASE2_ASSY"> |
+| **BASE** | バンドの取り付け部を無くしたベースモデル | <img src="img/BASE.png" width="200" alt="BASE"> <img src="img/BASE_ASSY.png" width="200" alt="BASE_ASSY"> |
 
 ---
 
